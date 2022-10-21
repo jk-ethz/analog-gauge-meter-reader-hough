@@ -1,5 +1,7 @@
 # Analog Gauge Reader
 
+Based on https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/analog-gauge-reader.
+
 This sample application takes an image or video frame of an analog gauge and reads the value using functions from the OpenCV\* computer vision library.
 It consists of two parts: calibration and measurement.  During calibration, the application calibrates an image 
 of a gauge (provided by the user) by prompting the user to enter the range of gauge values in degrees.  It then uses these 
