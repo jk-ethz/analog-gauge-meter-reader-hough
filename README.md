@@ -1,4 +1,4 @@
-# Analog Gauge Reader
+# Analog Gauge Meter Reader Hough
 
 An analog gauge/meter reader based on a classical modelling approach using hough-space detectors.
 Based on https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/analog-gauge-reader.
