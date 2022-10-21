@@ -1,0 +1,4 @@
+images/*.bw*
+images/*.calibration*
+images/*.circle*
+images/*.needle*
