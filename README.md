@@ -1,5 +1,6 @@
 # Analog Gauge Reader
 
+An analog gauge/meter reader based on a classical modelling approach using hough-space detectors.
 Based on https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/analog-gauge-reader.
 
 This sample application takes an image or video frame of an analog gauge and reads the value using functions from the OpenCV\* computer vision library.
